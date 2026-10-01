@@ -25,6 +25,8 @@
           libtool
           zlib
           libpng
+          optipng
+          gifsicle
           openjdk
         ];
       };
